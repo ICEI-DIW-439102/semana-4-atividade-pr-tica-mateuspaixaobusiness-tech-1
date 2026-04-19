@@ -1,3 +1,71 @@
 body {
-    background-color: aquamarine;
+  margin: 0;
+  font-family: Arial;
+}
+
+/* HEADER */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #0D0D0D;
+  color: white;
+  padding: 16px;
+}
+
+/* MENU */
+.menu a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+/* HERO */
+.hero {
+  position: relative;
+  text-align: center;
+}
+
+.hero img {
+  width: 100%;
+}
+
+.hero h2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+/* ARTISTAS */
+.artistas {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.artistas .card {
+  background: #eee;
+  padding: 10px;
+  text-align: center;
+}
+
+/* FORM */
+.formulario {
+  padding: 20px;
+}
+
+.formulario form input {
+  display: block;
+  margin: 10px 0;
+  padding: 8px;
+}
+
+/* FOOTER */
+.footer {
+  background: #0D0D0D;
+  color: white;
+  text-align: center;
+  padding: 10px;
 }
