@@ -9,18 +9,23 @@
 
 - Nome:Mateus Ribeiro Paixão
 - Matricula:907849
-- Proposta de projeto escolhida:Artista/álbuns,músicas
-- Breve descrição sobre seu projeto:plataforma de artistas independentes que querem crescer no mercado musical
+- Proposta de projeto escolhida: Artista/álbuns,músicas
+- Breve descrição sobre seu projeto: plataforma de artistas independentes que querem crescer no mercado musical
 
 
  Print do(s) wireframe(s) criado
 > Sugestão, use o Excalidraw para isso. Utilize esse [template básico](https://excalidraw.com/#json=LU-8hwcQEwzk11FwO8Opo,qPU9K6cNUEzlXzwOuKMIlQ) para você começar. 
 
 <<  COLOQUE A IMAGEM AQUI >>
-<img src = "C:\Users\mateus.paixao\Documents\PUC MINAS\DIW\atividade semana 4.2\semana-4-atividade-pr-tica-mateuspaixaobusiness-tech-1\Captura de tela 2026-04-19 202453.png">
+<img width="353" height="538" alt="image" src="https://github.com/user-attachments/assets/14a43a28-753b-451f-8f74-eb2b673f0115" />
 
 
 
 ## Print da home-page criada
 
 <<  COLOQUE A IMAGEM AQUI >>
+<img width="946" height="885" alt="image" src="https://github.com/user-attachments/assets/d6ab93db-5483-4811-b1c0-2fb868e395f2" />
+<img width="910" height="878" alt="image" src="https://github.com/user-attachments/assets/f34796f6-84d2-4c25-a27b-3fff95d922e3" />
+
+
+
